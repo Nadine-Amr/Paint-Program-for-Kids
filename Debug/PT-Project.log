@@ -1,0 +1,79 @@
+﻿Build started 03/12/2018 09:39:04 م.
+     1>Project "E:\Books\Year 4\Semster 2\FOCP\CIE202-Proj-S2018\Drawing-for-Kids\PT-Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt Actions\ActionAddEllipse.cpp
+         ActionAddEllipse.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/PT Project.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/PT Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\PT Project.lib" /MACHINE:X86 /SAFESEH .\Debug/ActionAddEllipse.obj
+         .\Debug/ActionAddHexagon.obj
+         .\Debug/ActionAddSquare.obj
+         .\Debug/ActionBringFront.obj
+         .\Debug/ActionChangeDC.obj
+         .\Debug/ActionChangeFC.obj
+         .\Debug/ActionColor.obj
+         .\Debug/ActionDelete.obj
+         .\Debug/ActionDrawMode.obj
+         .\Debug/ActionExit.obj
+         .\Debug/ActionFig.obj
+         .\Debug/ActionFigColor.obj
+         .\Debug/ActionGetColor.obj
+         .\Debug/ActionLoad.obj
+         .\Debug/ActionMove.obj
+         .\Debug/ActionPlayMode.obj
+         .\Debug/ActionRedo.obj
+         .\Debug/ActionResize.obj
+         .\Debug/ActionRestart.obj
+         .\Debug/ActionRotate.obj
+         .\Debug/ActionSave.obj
+         .\Debug/ActionSelect.obj
+         .\Debug/ActionSendBack.obj
+         .\Debug/ActionUndo.obj
+         .\Debug/ApplicationManager.obj
+         .\Debug/auxil.obj
+         .\Debug/CMUgraphics.obj
+         .\Debug/image.obj
+         .\Debug/jpegload.obj
+         .\Debug/keyqueue.obj
+         .\Debug/mousequeue.obj
+         .\Debug/windowinput.obj
+         .\Debug/jcomapi.obj
+         .\Debug/jcparam.obj
+         .\Debug/jdapimin.obj
+         .\Debug/jdapistd.obj
+         .\Debug/jdatasrc.obj
+         .\Debug/jdcoefct.obj
+         .\Debug/jdcolor.obj
+         .\Debug/jddctmgr.obj
+         .\Debug/jdhuff.obj
+         .\Debug/jdinput.obj
+         .\Debug/jdmainct.obj
+         .\Debug/jdmarker.obj
+         .\Debug/jdmaster.obj
+         .\Debug/jdmerge.obj
+         .\Debug/jdphuff.obj
+         .\Debug/jdpostct.obj
+         .\Debug/jdsample.obj
+         .\Debug/jdtrans.obj
+         .\Debug/jerror.obj
+         .\Debug/jidctflt.obj
+         .\Debug/jidctfst.obj
+         .\Debug/jidctint.obj
+         .\Debug/jidctred.obj
+         .\Debug/jmemmgr.obj
+         .\Debug/jmemnobs.obj
+         .\Debug/jquant1.obj
+         .\Debug/jquant2.obj
+         .\Debug/jutils.obj
+         .\Debug/CEllipse.obj
+         .\Debug/CFigure.obj
+         .\Debug/CHexagon.obj
+         .\Debug/CSquare.obj
+         .\Debug/GUI.obj
+         .\Debug/main.obj
+     1>ActionAddEllipse.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         PT-Project.vcxproj -> E:\Books\Year 4\Semster 2\FOCP\CIE202-Proj-S2018\Drawing-for-Kids\.\Debug\PT Project.exe
+     1>Done Building Project "E:\Books\Year 4\Semster 2\FOCP\CIE202-Proj-S2018\Drawing-for-Kids\PT-Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.20
